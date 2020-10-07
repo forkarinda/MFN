@@ -1,5 +1,5 @@
 # Preparing
->Put the complete How2 summarization dataset in the "how2data" folder according to the format of the demo data in the "how2data" folder.
+Put the complete How2 summarization dataset in the "how2data" folder according to the format of the demo data in the "how2data" folder.
 
 
 # Training
