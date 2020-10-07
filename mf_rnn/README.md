@@ -3,11 +3,12 @@ Put the complete How2 summarization dataset in the "how2data" folder according t
 
 
 # Training
-<You can run the following commands for training:
+You can run the following commands for training:
 
-<python nmtpy.py train --config configs/mfn_rnn.conf  #for ground-truth transcript model
-
+```
+python nmtpy.py train --config configs/mfn_rnn.conf 
 #python nmtpy.py train --config configs/asr_mfn_rnn.conf  #for ASR transcript model
+```
 
 
 # Prediction
