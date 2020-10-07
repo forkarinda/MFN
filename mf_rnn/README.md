@@ -14,6 +14,8 @@ python nmtpy.py train --config configs/mfn_rnn.conf
 # Prediction
 You can run the following commands for prediction:
 
+```
 python nmtpy.py translate model/mfn/mfn_rnn/your_checkpoint_file -o output
 
 #python nmtpy.py translate model/asr_mfn/asr_mfn_rnn/your_checkpoint_file -o output
+```
