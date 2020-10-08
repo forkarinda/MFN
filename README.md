@@ -1,7 +1,7 @@
 # MFN
 Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos
 ## Data
-You can download the extracted ASR transcription from [google drive](https://drive.google.com/drive/folders/1A2jWqVbr-q_6UK7VBWTsn9fi_JpLX1PY?usp=sharing):
+You can download the extracted ASR transcription from [google drive](https://drive.google.com/drive/folders/1A2jWqVbr-q_6UK7VBWTsn9fi_JpLX1PY?usp=sharing).
 ## Start
 Please go to folder MF_RNN or MF_transformer to start the experiment.
 
