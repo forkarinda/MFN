@@ -12,3 +12,5 @@ As an alternative, [nlg-eval](https://github.com/Maluuba/nlg-eval) evaluation li
 
 In addition, a [ROUGE](https://github.com/neural-dialogue-metrics/rouge) evaluation library can be used to calculate the ROUGE series (ROUGE-N, ROUGE-L, ROUGE-W) score.
 
+## acknowledgement
+We are very grateful that the code is based on [nmtpytorch](https://github.com/srvk/how2-dataset), [fairseq](https://github.com/pytorch/fairseq), and [machine-translation](https://github.com/tangbinh/machine-translation).
